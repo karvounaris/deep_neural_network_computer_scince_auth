@@ -1,0 +1,108 @@
+Number of clusters: 100, Parameter: 1, Type of RBF: gaussian
+Time collapsed: 31.54 seconds
+Training Accuracy: 0.1504, Test Accuracy: 0.1235
+Number of clusters: 100, Parameter: 2, Type of RBF: gaussian
+Time collapsed: 42.66 seconds
+Training Accuracy: 0.2823, Test Accuracy: 0.2203
+Number of clusters: 100, Parameter: 3, Type of RBF: gaussian
+Time collapsed: 77.23 seconds
+Training Accuracy: 0.4062, Test Accuracy: 0.3246
+Number of clusters: 100, Parameter: 5, Type of RBF: gaussian
+Time collapsed: 121.34 seconds
+Training Accuracy: 0.5375, Test Accuracy: 0.4570
+Number of clusters: 100, Parameter: 8, Type of RBF: gaussian
+Time collapsed: 193.48 seconds
+Training Accuracy: 0.5690, Test Accuracy: 0.5051
+Number of clusters: 100, Parameter: 10, Type of RBF: gaussian
+Time collapsed: 196.47 seconds
+Training Accuracy: 0.5576, Test Accuracy: 0.5100
+Number of clusters: 100, Parameter: 12, Type of RBF: gaussian
+Time collapsed: 212.66 seconds
+Training Accuracy: 0.5414, Test Accuracy: 0.5092
+Number of clusters: 100, Parameter: 15, Type of RBF: gaussian
+Time collapsed: 201.53 seconds
+Training Accuracy: 0.5216, Test Accuracy: 0.4992
+Number of clusters: 100, Parameter: 20, Type of RBF: gaussian
+Time collapsed: 199.60 seconds
+Training Accuracy: 0.4997, Test Accuracy: 0.4846
+Number of clusters: 150, Parameter: 1, Type of RBF: gaussian
+Time collapsed: 39.40 seconds
+Training Accuracy: 0.1663, Test Accuracy: 0.1274
+Number of clusters: 150, Parameter: 2, Type of RBF: gaussian
+Time collapsed: 52.38 seconds
+Training Accuracy: 0.3297, Test Accuracy: 0.2343
+Number of clusters: 150, Parameter: 3, Type of RBF: gaussian
+Time collapsed: 113.27 seconds
+Training Accuracy: 0.4624, Test Accuracy: 0.3378
+Number of clusters: 150, Parameter: 5, Type of RBF: gaussian
+Time collapsed: 221.66 seconds
+Training Accuracy: 0.5837, Test Accuracy: 0.4627
+Number of clusters: 150, Parameter: 8, Type of RBF: gaussian
+Time collapsed: 285.55 seconds
+Training Accuracy: 0.6020, Test Accuracy: 0.5106
+Number of clusters: 150, Parameter: 10, Type of RBF: gaussian
+Time collapsed: 333.30 seconds
+Training Accuracy: 0.5836, Test Accuracy: 0.5184
+Number of clusters: 150, Parameter: 12, Type of RBF: gaussian
+Time collapsed: 363.47 seconds
+Training Accuracy: 0.5641, Test Accuracy: 0.5166
+Number of clusters: 150, Parameter: 15, Type of RBF: gaussian
+Time collapsed: 355.47 seconds
+Training Accuracy: 0.5414, Test Accuracy: 0.5112
+Number of clusters: 150, Parameter: 20, Type of RBF: gaussian
+Time collapsed: 361.40 seconds
+Training Accuracy: 0.5134, Test Accuracy: 0.4951
+Number of clusters: 200, Parameter: 1, Type of RBF: gaussian
+Time collapsed: 54.89 seconds
+Training Accuracy: 0.1823, Test Accuracy: 0.1262
+Number of clusters: 200, Parameter: 2, Type of RBF: gaussian
+Time collapsed: 73.38 seconds
+Training Accuracy: 0.3606, Test Accuracy: 0.2414
+Number of clusters: 200, Parameter: 3, Type of RBF: gaussian
+Time collapsed: 146.69 seconds
+Training Accuracy: 0.5094, Test Accuracy: 0.3426
+Number of clusters: 200, Parameter: 5, Type of RBF: gaussian
+Time collapsed: 313.13 seconds
+Training Accuracy: 0.6248, Test Accuracy: 0.4623
+Number of clusters: 200, Parameter: 8, Type of RBF: gaussian
+Time collapsed: 461.09 seconds
+Training Accuracy: 0.6322, Test Accuracy: 0.5137
+Number of clusters: 200, Parameter: 10, Type of RBF: gaussian
+Time collapsed: 503.33 seconds
+Training Accuracy: 0.6086, Test Accuracy: 0.5204
+Number of clusters: 200, Parameter: 12, Type of RBF: gaussian
+Time collapsed: 528.41 seconds
+Training Accuracy: 0.5844, Test Accuracy: 0.5238
+Number of clusters: 200, Parameter: 15, Type of RBF: gaussian
+Time collapsed: 539.47 seconds
+Training Accuracy: 0.5565, Test Accuracy: 0.5174
+Number of clusters: 200, Parameter: 20, Type of RBF: gaussian
+Time collapsed: 533.87 seconds
+Training Accuracy: 0.5276, Test Accuracy: 0.5024
+Number of clusters: 300, Parameter: 1, Type of RBF: gaussian
+Time collapsed: 82.41 seconds
+Training Accuracy: 0.2072, Test Accuracy: 0.1294
+Number of clusters: 300, Parameter: 2, Type of RBF: gaussian
+Time collapsed: 106.43 seconds
+Training Accuracy: 0.4138, Test Accuracy: 0.2463
+Number of clusters: 300, Parameter: 3, Type of RBF: gaussian
+Time collapsed: 225.33 seconds
+Training Accuracy: 0.5850, Test Accuracy: 0.3632
+Number of clusters: 300, Parameter: 5, Type of RBF: gaussian
+Time collapsed: 541.89 seconds
+Training Accuracy: 0.6892, Test Accuracy: 0.4723
+Number of clusters: 300, Parameter: 8, Type of RBF: gaussian
+Time collapsed: 847.14 seconds
+Training Accuracy: 0.6801, Test Accuracy: 0.5211
+Number of clusters: 300, Parameter: 10, Type of RBF: gaussian
+Time collapsed: 1034.44 seconds
+Training Accuracy: 0.6474, Test Accuracy: 0.5316
+Number of clusters: 300, Parameter: 12, Type of RBF: gaussian
+Time collapsed: 909.34 seconds
+Training Accuracy: 0.6171, Test Accuracy: 0.5334
+Number of clusters: 300, Parameter: 15, Type of RBF: gaussian
+Time collapsed: 909.82 seconds
+Training Accuracy: 0.5837, Test Accuracy: 0.5282
+Number of clusters: 300, Parameter: 20, Type of RBF: gaussian
+Time collapsed: 962.50 seconds
+Training Accuracy: 0.5486, Test Accuracy: 0.5184

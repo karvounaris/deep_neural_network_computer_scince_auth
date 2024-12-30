@@ -1,0 +1,19 @@
+Test accuracy = 0.44...
+RBF Kernel, C = 10, Gamma = scale
+RBF Kernel, C = 100, Gamma = scale
+RBF Kernel, C = 1000, Gamma = scale
+
+Test accuracy = 0.43...
+RBF Kernel, C = 1, Gamma = scale
+
+giannis
+RBF Kernel, C = 1, Gamma = scale, decision_function_shape = "ovo"
+RBF Kernel, C = 10, Gamma = scale, decision_function_shape = "ovo"
+RBF Kernel, C = 100, Gamma = scale, decision_function_shape = "ovo"
+RBF Kernel, C = 10, Gamma = scale, decision_function_shape = "ovo", probability = True
+
+poly Kernel, C = 10, Gamma = scale, degree = 2, coef0 = 0.5
+poly Kernel, C = 10, Gamma = 0.5, degree = 2, coef0 = 0.5, probability = True
+
+
+linear Kernel, C = 0.1

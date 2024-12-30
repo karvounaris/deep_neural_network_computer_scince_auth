@@ -1,0 +1,219 @@
+n_clusters_options = [5, 10, 20, 30, 40, 50]
+parameter_options = [0.01, 0.1, 0.5, 1, 2, 3]
+
+
+Number of clusters: 5, Parameter: 0.01, Type of RBF: gaussian
+Time collapsed: 0.19 seconds
+Training Accuracy: 0.1000, Test Accuracy: 0.1000
+Number of clusters: 5, Parameter: 0.01, Type of RBF: multiquadratic
+Time collapsed: 11.14 seconds
+Training Accuracy: 0.4145, Test Accuracy: 0.4141
+Number of clusters: 5, Parameter: 0.1, Type of RBF: gaussian
+Time collapsed: 0.47 seconds
+Training Accuracy: 0.1000, Test Accuracy: 0.1000
+Number of clusters: 5, Parameter: 0.1, Type of RBF: multiquadratic
+Time collapsed: 11.87 seconds
+Training Accuracy: 0.4148, Test Accuracy: 0.4141
+Number of clusters: 5, Parameter: 0.5, Type of RBF: gaussian
+Time collapsed: 2.43 seconds
+Training Accuracy: 0.1017, Test Accuracy: 0.1006
+Number of clusters: 5, Parameter: 0.5, Type of RBF: multiquadratic
+Time collapsed: 10.87 seconds
+Training Accuracy: 0.4145, Test Accuracy: 0.4143
+Number of clusters: 5, Parameter: 1, Type of RBF: gaussian
+Time collapsed: 3.40 seconds
+Training Accuracy: 0.1063, Test Accuracy: 0.1042
+Number of clusters: 5, Parameter: 1, Type of RBF: multiquadratic
+Time collapsed: 11.37 seconds
+Training Accuracy: 0.4146, Test Accuracy: 0.4142
+Number of clusters: 5, Parameter: 2, Type of RBF: gaussian
+Time collapsed: 4.30 seconds
+Training Accuracy: 0.1419, Test Accuracy: 0.1394
+Number of clusters: 5, Parameter: 2, Type of RBF: multiquadratic
+Time collapsed: 11.28 seconds
+Training Accuracy: 0.4145, Test Accuracy: 0.4139
+Number of clusters: 5, Parameter: 3, Type of RBF: gaussian
+Time collapsed: 5.43 seconds
+Training Accuracy: 0.2102, Test Accuracy: 0.2101
+Number of clusters: 5, Parameter: 3, Type of RBF: multiquadratic
+Time collapsed: 11.18 seconds
+Training Accuracy: 0.4140, Test Accuracy: 0.4134
+Number of clusters: 10, Parameter: 0.01, Type of RBF: gaussian
+Time collapsed: 0.33 seconds
+Training Accuracy: 0.1000, Test Accuracy: 0.1000
+Number of clusters: 10, Parameter: 0.01, Type of RBF: multiquadratic
+Time collapsed: 18.48 seconds
+Training Accuracy: 0.4405, Test Accuracy: 0.4392
+Number of clusters: 10, Parameter: 0.1, Type of RBF: gaussian
+Time collapsed: 0.35 seconds
+Training Accuracy: 0.1000, Test Accuracy: 0.1000
+Number of clusters: 10, Parameter: 0.1, Type of RBF: multiquadratic
+Time collapsed: 17.19 seconds
+Training Accuracy: 0.4405, Test Accuracy: 0.4393
+Number of clusters: 10, Parameter: 0.5, Type of RBF: gaussian
+Time collapsed: 3.44 seconds
+Training Accuracy: 0.1025, Test Accuracy: 0.1011
+Number of clusters: 10, Parameter: 0.5, Type of RBF: multiquadratic
+Time collapsed: 17.90 seconds
+Training Accuracy: 0.4404, Test Accuracy: 0.4395
+Number of clusters: 10, Parameter: 1, Type of RBF: gaussian
+Time collapsed: 4.60 seconds
+Training Accuracy: 0.1095, Test Accuracy: 0.1060
+Number of clusters: 10, Parameter: 1, Type of RBF: multiquadratic
+Time collapsed: 17.45 seconds
+Training Accuracy: 0.4406, Test Accuracy: 0.4393
+Number of clusters: 10, Parameter: 2, Type of RBF: gaussian
+Time collapsed: 6.11 seconds
+Training Accuracy: 0.1597, Test Accuracy: 0.1569
+Number of clusters: 10, Parameter: 2, Type of RBF: multiquadratic
+Time collapsed: 17.46 seconds
+Training Accuracy: 0.4399, Test Accuracy: 0.4399
+Number of clusters: 10, Parameter: 3, Type of RBF: gaussian
+Time collapsed: 7.96 seconds
+Training Accuracy: 0.2413, Test Accuracy: 0.2342
+Number of clusters: 10, Parameter: 3, Type of RBF: multiquadratic
+Time collapsed: 18.34 seconds
+Training Accuracy: 0.4392, Test Accuracy: 0.4406
+Number of clusters: 20, Parameter: 0.01, Type of RBF: gaussian
+Time collapsed: 0.65 seconds
+Training Accuracy: 0.1000, Test Accuracy: 0.1000
+Number of clusters: 20, Parameter: 0.01, Type of RBF: multiquadratic
+Time collapsed: 32.51 seconds
+Training Accuracy: 0.4622, Test Accuracy: 0.4603
+Number of clusters: 20, Parameter: 0.1, Type of RBF: gaussian
+Time collapsed: 0.65 seconds
+Training Accuracy: 0.1000, Test Accuracy: 0.1000
+Number of clusters: 20, Parameter: 0.1, Type of RBF: multiquadratic
+Time collapsed: 31.27 seconds
+Training Accuracy: 0.4622, Test Accuracy: 0.4599
+Number of clusters: 20, Parameter: 0.5, Type of RBF: gaussian
+Time collapsed: 5.38 seconds
+Training Accuracy: 0.1055, Test Accuracy: 0.1035
+Number of clusters: 20, Parameter: 0.5, Type of RBF: multiquadratic
+Time collapsed: 32.96 seconds
+Training Accuracy: 0.4620, Test Accuracy: 0.4599
+Number of clusters: 20, Parameter: 1, Type of RBF: gaussian
+Time collapsed: 7.09 seconds
+Training Accuracy: 0.1170, Test Accuracy: 0.1120
+Number of clusters: 20, Parameter: 1, Type of RBF: multiquadratic
+Time collapsed: 31.19 seconds
+Training Accuracy: 0.4619, Test Accuracy: 0.4593
+Number of clusters: 20, Parameter: 2, Type of RBF: gaussian
+Time collapsed: 9.29 seconds
+Training Accuracy: 0.1820, Test Accuracy: 0.1738
+Number of clusters: 20, Parameter: 2, Type of RBF: multiquadratic
+Time collapsed: 30.06 seconds
+Training Accuracy: 0.4615, Test Accuracy: 0.4593
+Number of clusters: 20, Parameter: 3, Type of RBF: gaussian
+Time collapsed: 12.33 seconds
+Training Accuracy: 0.2710, Test Accuracy: 0.2600
+Number of clusters: 20, Parameter: 3, Type of RBF: multiquadratic
+Time collapsed: 31.11 seconds
+Training Accuracy: 0.4608, Test Accuracy: 0.4581
+Number of clusters: 30, Parameter: 0.01, Type of RBF: gaussian
+Time collapsed: 0.93 seconds
+Training Accuracy: 0.1000, Test Accuracy: 0.1000
+Number of clusters: 30, Parameter: 0.01, Type of RBF: multiquadratic
+Time collapsed: 47.61 seconds
+Training Accuracy: 0.4736, Test Accuracy: 0.4706
+Number of clusters: 30, Parameter: 0.1, Type of RBF: gaussian
+Time collapsed: 0.98 seconds
+Training Accuracy: 0.1000, Test Accuracy: 0.1000
+Number of clusters: 30, Parameter: 0.1, Type of RBF: multiquadratic
+Time collapsed: 47.35 seconds
+Training Accuracy: 0.4736, Test Accuracy: 0.4705
+Number of clusters: 30, Parameter: 0.5, Type of RBF: gaussian
+Time collapsed: 7.53 seconds
+Training Accuracy: 0.1074, Test Accuracy: 0.1032
+Number of clusters: 30, Parameter: 0.5, Type of RBF: multiquadratic
+Time collapsed: 49.00 seconds
+Training Accuracy: 0.4736, Test Accuracy: 0.4705
+Number of clusters: 30, Parameter: 1, Type of RBF: gaussian
+Time collapsed: 9.21 seconds
+Training Accuracy: 0.1215, Test Accuracy: 0.1123
+Number of clusters: 30, Parameter: 1, Type of RBF: multiquadratic
+Time collapsed: 50.53 seconds
+Training Accuracy: 0.4738, Test Accuracy: 0.4708
+Number of clusters: 30, Parameter: 2, Type of RBF: gaussian
+Time collapsed: 13.02 seconds
+Training Accuracy: 0.2021, Test Accuracy: 0.1867
+Number of clusters: 30, Parameter: 2, Type of RBF: multiquadratic
+Time collapsed: 49.47 seconds
+Training Accuracy: 0.4730, Test Accuracy: 0.4704
+Number of clusters: 30, Parameter: 3, Type of RBF: gaussian
+Time collapsed: 19.53 seconds
+Training Accuracy: 0.2972, Test Accuracy: 0.2793
+Number of clusters: 30, Parameter: 3, Type of RBF: multiquadratic
+Time collapsed: 50.81 seconds
+Training Accuracy: 0.4720, Test Accuracy: 0.4690
+Number of clusters: 40, Parameter: 0.01, Type of RBF: gaussian
+Time collapsed: 1.27 seconds
+Training Accuracy: 0.1000, Test Accuracy: 0.1000
+Number of clusters: 40, Parameter: 0.01, Type of RBF: multiquadratic
+Time collapsed: 77.90 seconds
+Training Accuracy: 0.4824, Test Accuracy: 0.4736
+Number of clusters: 40, Parameter: 0.1, Type of RBF: gaussian
+Time collapsed: 1.27 seconds
+Training Accuracy: 0.1000, Test Accuracy: 0.1000
+Number of clusters: 40, Parameter: 0.1, Type of RBF: multiquadratic
+Time collapsed: 72.89 seconds
+Training Accuracy: 0.4825, Test Accuracy: 0.4733
+Number of clusters: 40, Parameter: 0.5, Type of RBF: gaussian
+Time collapsed: 11.10 seconds
+Training Accuracy: 0.1096, Test Accuracy: 0.1033
+Number of clusters: 40, Parameter: 0.5, Type of RBF: multiquadratic
+Time collapsed: 73.06 seconds
+Training Accuracy: 0.4823, Test Accuracy: 0.4738
+Number of clusters: 40, Parameter: 1, Type of RBF: gaussian
+Time collapsed: 12.05 seconds
+Training Accuracy: 0.1262, Test Accuracy: 0.1155
+Number of clusters: 40, Parameter: 1, Type of RBF: multiquadratic
+Time collapsed: 73.06 seconds
+Training Accuracy: 0.4819, Test Accuracy: 0.4739
+Number of clusters: 40, Parameter: 2, Type of RBF: gaussian
+Time collapsed: 18.74 seconds
+Training Accuracy: 0.2170, Test Accuracy: 0.1976
+Number of clusters: 40, Parameter: 2, Type of RBF: multiquadratic
+Time collapsed: 76.26 seconds
+Training Accuracy: 0.4813, Test Accuracy: 0.4734
+Number of clusters: 40, Parameter: 3, Type of RBF: gaussian
+Time collapsed: 27.71 seconds
+Training Accuracy: 0.3199, Test Accuracy: 0.2884
+Number of clusters: 40, Parameter: 3, Type of RBF: multiquadratic
+Time collapsed: 76.92 seconds
+Training Accuracy: 0.4803, Test Accuracy: 0.4735
+Number of clusters: 50, Parameter: 0.01, Type of RBF: gaussian
+Time collapsed: 2.12 seconds
+Training Accuracy: 0.1000, Test Accuracy: 0.1000
+Number of clusters: 50, Parameter: 0.01, Type of RBF: multiquadratic
+Time collapsed: 97.03 seconds
+Training Accuracy: 0.4901, Test Accuracy: 0.4786
+Number of clusters: 50, Parameter: 0.1, Type of RBF: gaussian
+Time collapsed: 2.88 seconds
+Training Accuracy: 0.1000, Test Accuracy: 0.1000
+Number of clusters: 50, Parameter: 0.1, Type of RBF: multiquadratic
+Time collapsed: 95.46 seconds
+Training Accuracy: 0.4901, Test Accuracy: 0.4788
+Number of clusters: 50, Parameter: 0.5, Type of RBF: gaussian
+Time collapsed: 13.74 seconds
+Training Accuracy: 0.1118, Test Accuracy: 0.1048
+Number of clusters: 50, Parameter: 0.5, Type of RBF: multiquadratic
+Time collapsed: 102.99 seconds
+Training Accuracy: 0.4902, Test Accuracy: 0.4785
+Number of clusters: 50, Parameter: 1, Type of RBF: gaussian
+Time collapsed: 15.95 seconds
+Training Accuracy: 0.1308, Test Accuracy: 0.1182
+Number of clusters: 50, Parameter: 1, Type of RBF: multiquadratic
+Time collapsed: 99.54 seconds
+Training Accuracy: 0.4899, Test Accuracy: 0.4791
+Number of clusters: 50, Parameter: 2, Type of RBF: gaussian
+Time collapsed: 22.88 seconds
+Training Accuracy: 0.2245, Test Accuracy: 0.1972
+Number of clusters: 50, Parameter: 2, Type of RBF: multiquadratic
+Time collapsed: 108.49 seconds
+Training Accuracy: 0.4893, Test Accuracy: 0.4785
+Number of clusters: 50, Parameter: 3, Type of RBF: gaussian
+Time collapsed: 34.91 seconds
+Training Accuracy: 0.3458, Test Accuracy: 0.3037
+Number of clusters: 50, Parameter: 3, Type of RBF: multiquadratic
+Time collapsed: 97.75 seconds

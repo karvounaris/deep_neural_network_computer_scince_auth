@@ -1,0 +1,109 @@
+learning_rate = 1e-2
+Epoch = 250
+batch = 400
+
+
+Epoch: 0
+Loss: 2.4046671
+Train accuracy: 0.21434
+Test accuracy: 0.2152
+Epoch: 10
+Loss: 1.744235
+Train accuracy: 0.41388
+Test accuracy: 0.3911
+Epoch: 20
+Loss: 1.5756028
+Train accuracy: 0.47408
+Test accuracy: 0.4346
+Epoch: 30
+Loss: 1.474247
+Train accuracy: 0.5137
+Test accuracy: 0.4581
+Epoch: 40
+Loss: 1.4000417
+Train accuracy: 0.54404
+Test accuracy: 0.4726
+Epoch: 50
+Loss: 1.3403527
+Train accuracy: 0.57
+Test accuracy: 0.4806
+Epoch: 60
+Loss: 1.2897272
+Train accuracy: 0.59092
+Test accuracy: 0.4865
+Epoch: 70
+Loss: 1.2454128
+Train accuracy: 0.61096
+Test accuracy: 0.492
+Epoch: 80
+Loss: 1.2054358
+Train accuracy: 0.62884
+Test accuracy: 0.4967
+Epoch: 90
+Loss: 1.1689137
+Train accuracy: 0.64602
+Test accuracy: 0.4998
+Epoch: 100
+Loss: 1.1349958
+Train accuracy: 0.66002
+Test accuracy: 0.5045
+Epoch: 110
+Loss: 1.1029631
+Train accuracy: 0.67472
+Test accuracy: 0.5069
+Epoch: 120
+Loss: 1.0727332
+Train accuracy: 0.68868
+Test accuracy: 0.5105
+Epoch: 130
+Loss: 1.0438263
+Train accuracy: 0.70046
+Test accuracy: 0.5127
+Epoch: 140
+Loss: 1.0161214
+Train accuracy: 0.71202
+Test accuracy: 0.5143
+Epoch: 150
+Loss: 0.9895613
+Train accuracy: 0.72448
+Test accuracy: 0.5173
+Epoch: 160
+Loss: 0.9638646
+Train accuracy: 0.73592
+Test accuracy: 0.5167
+Epoch: 170
+Loss: 0.93904734
+Train accuracy: 0.74712
+Test accuracy: 0.5189
+Epoch: 180
+Loss: 0.91497487
+Train accuracy: 0.75766
+Test accuracy: 0.5189
+Epoch: 190
+Loss: 0.8915827
+Train accuracy: 0.76734
+Test accuracy: 0.5202
+Epoch: 200
+Loss: 0.8689629
+Train accuracy: 0.7777
+Test accuracy: 0.5213
+Epoch: 210
+Loss: 0.8471185
+Train accuracy: 0.78688
+Test accuracy: 0.5237
+Epoch: 220
+Loss: 0.8258521
+Train accuracy: 0.79594
+Test accuracy: 0.524
+Epoch: 230
+Loss: 0.805227
+Train accuracy: 0.8053
+Test accuracy: 0.524
+Epoch: 240
+Loss: 0.78536963
+Train accuracy: 0.81398
+Test accuracy: 0.5234
+Epoch: 249
+Loss: 0.7680529
+Train accuracy: 0.82144
+Test accuracy: 0.5227

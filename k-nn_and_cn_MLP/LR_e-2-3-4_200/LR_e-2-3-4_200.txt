@@ -1,0 +1,69 @@
+learning rate = 1e-2, epoch = 0-10
+learning rate = 1e-3, epoch = 10-100
+learning rate = 1e-4, epoch = 100-200
+batch = 200
+
+Epoch: 0
+Loss: 4.456831
+Train accuracy: 0.2131
+Epoch: 10
+Loss: 3.4545102
+Train accuracy: 0.3292
+Epoch: 20
+Loss: 4.381978
+Train accuracy: 0.29618
+Epoch: 30
+Loss: 3.2694018
+Train accuracy: 0.36082
+Epoch: 40
+Loss: 3.444125
+Train accuracy: 0.36714
+Epoch: 50
+Loss: 6.0222373
+Train accuracy: 0.27476
+Epoch: 60
+Loss: 4.559646
+Train accuracy: 0.3353
+Epoch: 70
+Loss: 3.7379565
+Train accuracy: 0.37036
+Epoch: 80
+Loss: 3.404736
+Train accuracy: 0.38484
+Epoch: 90
+Loss: 3.7110262
+Train accuracy: 0.34828
+Epoch: 100
+Loss: 4.788884
+Train accuracy: 0.29908
+Epoch: 110
+Loss: 4.2713804
+Train accuracy: 0.30632
+Epoch: 120
+Loss: 3.7991905
+Train accuracy: 0.32114
+Epoch: 130
+Loss: 3.898694
+Train accuracy: 0.31292
+Epoch: 140
+Loss: 3.8359466
+Train accuracy: 0.30274
+Epoch: 150
+Loss: 4.0226235
+Train accuracy: 0.28458
+Epoch: 160
+Loss: 5.0043206
+Train accuracy: 0.22032
+Epoch: 170
+Loss: 4.0889373
+Train accuracy: 0.25886
+Epoch: 180
+Loss: 3.8475053
+Train accuracy: 0.27506
+Epoch: 190
+Loss: 3.7698781
+Train accuracy: 0.27838
+Epoch: 199
+Loss: 3.6844497
+Train accuracy: 0.2815
+Test accuracy: 0.215

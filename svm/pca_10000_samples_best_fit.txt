@@ -1,0 +1,64 @@
+BEST OPTIONS
+PCA and 10000 samples
+
+
+Linear Kernel, C = 0.1
+Number of support vectors = [ 894  882  991 1009  948  973  839  856  827  899]
+Elapsed time: 8.904108762741089
+Train accuracy = 0.4403
+Test accuracy = 0.3838
+
+Polynomial Kernel, Degree = 2, C = 10, Gamma = scale, coef0 = 0.5
+Number of support vectors = [789 837 976 983 933 930 858 849 768 890]
+Elapsed time: 7.057990789413452
+Train accuracy = 0.8739
+Test accuracy = 0.4577
+
+RBF Kernel, C = 1, Gamma = scale
+Number of support vectors = [ 881  926 1003 1023  956  976  879  909  840  971]
+Elapsed time: 5.395939111709595
+Train accuracy = 0.6554
+Test accuracy = 0.4708
+
+RBF Kernel, C = 10, Gamma = scale
+Number of support vectors = [ 905  922 1004 1017  952  992  901  915  840  982]
+Elapsed time: 7.345630645751953
+Train accuracy = 0.9614
+Test accuracy = 0.4709
+
+RBF Kernel, C = 100, Gamma = scale
+Number of support vectors = [ 920  919 1000 1015  953  982  912  924  841  981]
+Elapsed time: 8.281328201293945
+Train accuracy = 0.9997
+Test accuracy = 0.4556
+
+RBF Kernel, C = 1000, Gamma = scale
+Number of support vectors = [ 920  919  999 1016  948  982  910  924  840  981]
+Elapsed time: 8.17867136001587
+Train accuracy = 1.0
+Test accuracy = 0.4557
+
+RBF Kernel, C = 1, Gamma = scaledecision_function_shape = "ovo"
+Number of support vectors = [ 881  926 1003 1023  956  976  879  909  840  971]
+Elapsed time: 5.391200542449951
+Train accuracy = 0.6554
+Test accuracy = 0.4708
+
+RBF Kernel, C = 10, Gamma = scaledecision_function_shape = "ovo"
+Number of support vectors = [ 905  922 1004 1017  952  992  901  915  840  982]
+Elapsed time: 7.318029880523682
+Train accuracy = 0.9614
+Test accuracy = 0.4709
+
+RBF Kernel, C = 100, Gamma = scaledecision_function_shape = "ovo"
+Number of support vectors = [ 920  919 1000 1015  953  982  912  924  841  981]
+Elapsed time: 8.248036623001099
+Train accuracy = 0.9997
+Test accuracy = 0.4556
+
+RBF Kernel, C = 1000, Gamma = scaledecision_function_shape = "ovo"
+Number of support vectors = [ 920  919  999 1016  948  982  910  924  840  981]
+Elapsed time: 8.183026313781738
+Train accuracy = 1.0
+Test accuracy = 0.4557
+

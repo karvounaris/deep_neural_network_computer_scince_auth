@@ -1,0 +1,64 @@
+BEST OPTIONS
+PCA and 5000 samples
+
+
+Linear Kernel, C = 0.1
+Number of support vectors = [446 436 477 516 463 523 441 438 397 452]
+Elapsed time: 2.4526445865631104
+Train accuracy = 0.4708
+Test accuracy = 0.3621
+
+Polynomial Kernel, Degree = 2, C = 10, Gamma = scale, coef0 = 0.5
+Number of support vectors = [406 430 480 510 463 503 460 446 385 461]
+Elapsed time: 1.7975034713745117
+Train accuracy = 0.9206
+Test accuracy = 0.4199
+
+RBF Kernel, C = 1, Gamma = scale
+Number of support vectors = [453 469 486 526 467 535 465 477 424 488]
+Elapsed time: 1.495023488998413
+Train accuracy = 0.6632
+Test accuracy = 0.4359
+
+RBF Kernel, C = 10, Gamma = scale
+Number of support vectors = [454 468 485 525 469 533 472 470 421 493]
+Elapsed time: 2.0700836181640625
+Train accuracy = 0.972
+Test accuracy = 0.4446
+
+RBF Kernel, C = 100, Gamma = scale
+Number of support vectors = [453 466 485 525 469 529 477 470 419 490]
+Elapsed time: 2.179264545440674
+Train accuracy = 1.0
+Test accuracy = 0.4275
+
+RBF Kernel, C = 1000, Gamma = scale
+Number of support vectors = [453 466 485 525 470 529 477 470 419 490]
+Elapsed time: 2.17147159576416
+Train accuracy = 1.0
+Test accuracy = 0.4276
+
+RBF Kernel, C = 1, Gamma = scaledecision_function_shape = "ovo"
+Number of support vectors = [453 469 486 526 467 535 465 477 424 488]
+Elapsed time: 1.5112762451171875
+Train accuracy = 0.6632
+Test accuracy = 0.4359
+
+RBF Kernel, C = 10, Gamma = scaledecision_function_shape = "ovo"
+Number of support vectors = [454 468 485 525 469 533 472 470 421 493]
+Elapsed time: 2.059635639190674
+Train accuracy = 0.972
+Test accuracy = 0.4446
+
+RBF Kernel, C = 100, Gamma = scaledecision_function_shape = "ovo"
+Number of support vectors = [453 466 485 525 469 529 477 470 419 490]
+Elapsed time: 2.1751701831817627
+Train accuracy = 1.0
+Test accuracy = 0.4275
+
+RBF Kernel, C = 1000, Gamma = scaledecision_function_shape = "ovo"
+Number of support vectors = [453 466 485 525 470 529 477 470 419 490]
+Elapsed time: 2.183816909790039
+Train accuracy = 1.0
+Test accuracy = 0.4276
+

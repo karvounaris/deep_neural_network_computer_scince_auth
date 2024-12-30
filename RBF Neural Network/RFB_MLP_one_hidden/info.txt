@@ -1,0 +1,1 @@
+MPL with one hidden layer 128 neurons, output layer 10 neruons, batch size 100, epochs 100

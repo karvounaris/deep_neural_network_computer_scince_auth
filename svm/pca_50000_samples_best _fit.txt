@@ -1,0 +1,63 @@
+BEST OPTIONS
+PCA and 50000 samples
+
+
+Linear Kernel, C = 0.1
+Number of support vectors = [4497 4277 4925 4949 4892 4794 4301 4379 4164 4321]
+Elapsed time: 366.7933552265167
+Train accuracy = 0.4206
+Test accuracy = 0.4075
+
+Polynomial Kernel, Degree = 2, C = 10, Gamma = scale, coef0 = 0.5
+Number of support vectors = [3630 3496 4590 4598 4564 4370 3997 3655 3382 3816]
+Elapsed time: 290.8063061237335
+Train accuracy = 0.7454
+Test accuracy = 0.5421
+
+RBF Kernel, C = 1, Gamma = scale
+Number of support vectors = [4065 4177 4791 4896 4728 4662 4243 4127 3738 4305]
+Elapsed time: 234.4116370677948
+Train accuracy = 0.65468
+Test accuracy = 0.5402
+
+RBF Kernel, C = 10, Gamma = scale
+Number of support vectors = [4094 4072 4743 4896 4626 4711 4265 4070 3739 4353]
+Elapsed time: 283.5378005504608
+Train accuracy = 0.9216
+Test accuracy = 0.5624
+
+RBF Kernel, C = 100, Gamma = scale
+Number of support vectors = [4070 4055 4735 4836 4651 4664 4343 4065 3810 4376]
+Elapsed time: 378.86197662353516
+Train accuracy = 0.99672
+Test accuracy = 0.5442
+
+RBF Kernel, C = 1000, Gamma = scale
+Number of support vectors = [4038 4057 4709 4835 4636 4647 4333 4063 3804 4376]
+Elapsed time: 381.44525718688965
+Train accuracy = 1.0
+Test accuracy = 0.5386
+
+RBF Kernel, C = 1, Gamma = scale, decision_function_shape = "ovo"
+Number of support vectors = [4065 4177 4791 4896 4728 4662 4243 4127 3738 4305]
+Elapsed time: 185.95598721504211
+Train accuracy = 0.65468
+Test accuracy = 0.5402
+
+RBF Kernel, C = 10, Gamma = scale, decision_function_shape = "ovo"
+Number of support vectors = [4094 4072 4743 4896 4626 4711 4265 4070 3739 4353]
+Elapsed time: 227.3112096786499
+Train accuracy = 0.9216
+Test accuracy = 0.5624
+
+RBF Kernel, C = 100, Gamma = scale, decision_function_shape = "ovo"
+Number of support vectors = [4070 4055 4735 4836 4651 4664 4343 4065 3810 4376]
+Elapsed time: 302.2709484100342
+Train accuracy = 0.99672
+Test accuracy = 0.5442
+
+RBF Kernel, C = 1000, Gamma = scale, decision_function_shape = "ovo"
+Number of support vectors = [4038 4057 4709 4835 4636 4647 4333 4063 3804 4376]
+Elapsed time: 305.47143054008484
+Train accuracy = 1.0
+Test accuracy = 0.5386

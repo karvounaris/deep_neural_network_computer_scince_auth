@@ -1,0 +1,1047 @@
+No PCA and 5000 samples
+
+
+Linear Kernel, C = 0.1
+Number of support vectors = [458 441 477 519 464 530 455 452 400 458]
+Elapsed time: 32.922524213790894
+Train accuracy = 0.758
+Test accuracy = 0.3429
+
+Linear Kernel, C = 1
+Number of support vectors = [456 442 474 514 458 523 451 448 383 456]
+Elapsed time: 41.372230052948
+Train accuracy = 0.9852
+Test accuracy = 0.3073
+
+Linear Kernel, C = 10
+Number of support vectors = [455 443 475 514 456 521 448 451 379 457]
+Elapsed time: 40.989325284957886
+Train accuracy = 1.0
+Test accuracy = 0.3046
+
+Linear Kernel, C = 50
+Number of support vectors = [455 443 475 514 456 521 448 451 379 457]
+Elapsed time: 40.77830767631531
+Train accuracy = 1.0
+Test accuracy = 0.3046
+
+Linear Kernel, C = 100
+Number of support vectors = [455 443 475 514 456 521 448 451 379 457]
+Elapsed time: 40.73573851585388
+Train accuracy = 1.0
+Test accuracy = 0.3046
+
+Linear Kernel, C = 1000
+Number of support vectors = [455 443 475 514 456 521 448 451 379 457]
+Elapsed time: 41.2754271030426
+Train accuracy = 1.0
+Test accuracy = 0.3046
+
+Polynomial Kernel, Degree = 2, C = 0.1, Gamma = scale
+Number of support vectors = [448 475 483 526 470 528 476 480 426 486]
+Elapsed time: 34.13485264778137
+Train accuracy = 0.511
+Test accuracy = 0.3947
+
+Polynomial Kernel, Degree = 2, C = 0.1, Gamma = auto
+Number of support vectors = [490 483 487 527 473 548 491 502 482 504]
+Elapsed time: 51.239882946014404
+Train accuracy = 0.1552
+Test accuracy = 0.1497
+
+Polynomial Kernel, Degree = 2, C = 0.1, Gamma = 0.1
+Number of support vectors = [434 441 470 519 463 516 463 439 375 470]
+Elapsed time: 36.77973985671997
+Train accuracy = 0.9998
+Test accuracy = 0.3798
+
+Polynomial Kernel, Degree = 2, C = 0.1, Gamma = 0.5
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.2969286441803
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 0.1, Gamma = 1
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.28726148605347
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 0.1, Gamma = 10
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 36.88719606399536
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 0.1, Gamma = 20
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 36.959686279296875
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 1, Gamma = scale
+Number of support vectors = [427 447 480 519 467 532 468 450 387 475]
+Elapsed time: 31.249120235443115
+Train accuracy = 0.8102
+Test accuracy = 0.4079
+
+Polynomial Kernel, Degree = 2, C = 1, Gamma = auto
+Number of support vectors = [469 483 487 527 473 542 491 502 477 499]
+Elapsed time: 44.68719530105591
+Train accuracy = 0.2806
+Test accuracy = 0.2791
+
+Polynomial Kernel, Degree = 2, C = 1, Gamma = 0.1
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 36.69025468826294
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 1, Gamma = 0.5
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.31342267990112
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 1, Gamma = 1
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.325416564941406
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 1, Gamma = 10
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 38.27274417877197
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 1, Gamma = 20
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.24679684638977
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 10, Gamma = scale
+Number of support vectors = [429 441 469 517 463 517 465 441 372 470]
+Elapsed time: 36.57903528213501
+Train accuracy = 0.9948
+Test accuracy = 0.3866
+
+Polynomial Kernel, Degree = 2, C = 10, Gamma = auto
+Number of support vectors = [454 480 487 527 471 531 486 490 436 485]
+Elapsed time: 36.636574029922485
+Train accuracy = 0.4272
+Test accuracy = 0.3717
+
+Polynomial Kernel, Degree = 2, C = 10, Gamma = 0.1
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 36.866955041885376
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 10, Gamma = 0.5
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.47759199142456
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 10, Gamma = 1
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.45620107650757
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 10, Gamma = 10
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.07644271850586
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 10, Gamma = 20
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.093870401382446
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 50, Gamma = scale
+Number of support vectors = [433 441 470 519 463 515 463 439 373 470]
+Elapsed time: 37.07925868034363
+Train accuracy = 0.9998
+Test accuracy = 0.3795
+
+Polynomial Kernel, Degree = 2, C = 50, Gamma = auto
+Number of support vectors = [441 461 482 523 470 528 470 464 412 479]
+Elapsed time: 32.645286321640015
+Train accuracy = 0.5818
+Test accuracy = 0.4043
+
+Polynomial Kernel, Degree = 2, C = 50, Gamma = 0.1
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 36.853914737701416
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 50, Gamma = 0.5
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.49834632873535
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 50, Gamma = 1
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.47250962257385
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 50, Gamma = 10
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.07025456428528
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 50, Gamma = 20
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.04514145851135
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 100, Gamma = scale
+Number of support vectors = [433 441 470 520 463 515 463 440 373 470]
+Elapsed time: 36.92101192474365
+Train accuracy = 1.0
+Test accuracy = 0.3801
+
+Polynomial Kernel, Degree = 2, C = 100, Gamma = auto
+Number of support vectors = [438 456 480 520 469 525 473 457 404 476]
+Elapsed time: 31.83034348487854
+Train accuracy = 0.6682
+Test accuracy = 0.4085
+
+Polynomial Kernel, Degree = 2, C = 100, Gamma = 0.1
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 36.86711096763611
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 100, Gamma = 0.5
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.49417209625244
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 100, Gamma = 1
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.54759693145752
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 100, Gamma = 10
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.113826513290405
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 100, Gamma = 20
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.07556104660034
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 1000, Gamma = scale
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.27848505973816
+Train accuracy = 1.0
+Test accuracy = 0.3795
+
+Polynomial Kernel, Degree = 2, C = 1000, Gamma = auto
+Number of support vectors = [428 445 469 519 462 523 461 440 372 469]
+Elapsed time: 34.148935079574585
+Train accuracy = 0.9678
+Test accuracy = 0.3934
+
+Polynomial Kernel, Degree = 2, C = 1000, Gamma = 0.1
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.84175133705139
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 1000, Gamma = 0.5
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.45936632156372
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 1000, Gamma = 1
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.4615752696991
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 1000, Gamma = 10
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.056612968444824
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 2, C = 1000, Gamma = 20
+Number of support vectors = [433 441 470 519 463 515 462 440 373 470]
+Elapsed time: 37.07409477233887
+Train accuracy = 1.0
+Test accuracy = 0.3796
+
+Polynomial Kernel, Degree = 3, C = 0.1, Gamma = scale
+Number of support vectors = [412 448 479 520 468 525 477 450 379 472]
+Elapsed time: 31.739954948425293
+Train accuracy = 0.7618
+Test accuracy = 0.4074
+
+Polynomial Kernel, Degree = 3, C = 0.1, Gamma = auto
+Number of support vectors = [494 483 487 527 473 548 491 502 482 504]
+Elapsed time: 51.71693563461304
+Train accuracy = 0.1324
+Test accuracy = 0.1227
+
+Polynomial Kernel, Degree = 3, C = 0.1, Gamma = 0.1
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.86347222328186
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 0.1, Gamma = 0.5
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.794968605041504
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 0.1, Gamma = 1
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 35.05721378326416
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 0.1, Gamma = 10
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.59979200363159
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 0.1, Gamma = 20
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.571110248565674
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 1, Gamma = scale
+Number of support vectors = [414 444 470 515 465 508 465 436 359 447]
+Elapsed time: 34.050841093063354
+Train accuracy = 0.9792
+Test accuracy = 0.3981
+
+Polynomial Kernel, Degree = 3, C = 1, Gamma = auto
+Number of support vectors = [471 483 487 527 473 545 491 502 480 504]
+Elapsed time: 47.764233350753784
+Train accuracy = 0.21
+Test accuracy = 0.1983
+
+Polynomial Kernel, Degree = 3, C = 1, Gamma = 0.1
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.75459289550781
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 1, Gamma = 0.5
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.82798743247986
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 1, Gamma = 1
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.74693417549133
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 1, Gamma = 10
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.554606676101685
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 1, Gamma = 20
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.584145069122314
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 10, Gamma = scale
+Number of support vectors = [424 438 468 517 460 497 460 430 349 447]
+Elapsed time: 34.86037468910217
+Train accuracy = 0.9994
+Test accuracy = 0.3892
+
+Polynomial Kernel, Degree = 3, C = 10, Gamma = auto
+Number of support vectors = [448 482 487 527 473 529 489 494 452 490]
+Elapsed time: 40.12606072425842
+Train accuracy = 0.3482
+Test accuracy = 0.3118
+
+Polynomial Kernel, Degree = 3, C = 10, Gamma = 0.1
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.76597762107849
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 10, Gamma = 0.5
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.80180811882019
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 10, Gamma = 1
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.76804971694946
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 10, Gamma = 10
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.61899375915527
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 10, Gamma = 20
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.59900617599487
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 50, Gamma = scale
+Number of support vectors = [425 438 468 519 460 491 458 427 349 447]
+Elapsed time: 34.636375188827515
+Train accuracy = 1.0
+Test accuracy = 0.3854
+
+Polynomial Kernel, Degree = 3, C = 50, Gamma = auto
+Number of support vectors = [433 473 485 525 471 523 485 475 422 487]
+Elapsed time: 35.21676158905029
+Train accuracy = 0.492
+Test accuracy = 0.3712
+
+Polynomial Kernel, Degree = 3, C = 50, Gamma = 0.1
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.528003215789795
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 50, Gamma = 0.5
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.78972148895264
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 50, Gamma = 1
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.813737630844116
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 50, Gamma = 10
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.5865364074707
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 50, Gamma = 20
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.570515394210815
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 100, Gamma = scale
+Number of support vectors = [425 438 468 519 459 491 458 427 349 447]
+Elapsed time: 35.015509605407715
+Train accuracy = 1.0
+Test accuracy = 0.3848
+
+Polynomial Kernel, Degree = 3, C = 100, Gamma = auto
+Number of support vectors = [428 465 483 523 470 526 480 467 410 483]
+Elapsed time: 33.48855018615723
+Train accuracy = 0.5688
+Test accuracy = 0.3872
+
+Polynomial Kernel, Degree = 3, C = 100, Gamma = 0.1
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.5282678604126
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 100, Gamma = 0.5
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.51903510093689
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 100, Gamma = 1
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.542176246643066
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 100, Gamma = 10
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.33358407020569
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 100, Gamma = 20
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.33502173423767
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 1000, Gamma = scale
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.45531463623047
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 1000, Gamma = auto
+Number of support vectors = [417 440 476 518 467 527 470 439 366 467]
+Elapsed time: 31.117496490478516
+Train accuracy = 0.8862
+Test accuracy = 0.4097
+
+Polynomial Kernel, Degree = 3, C = 1000, Gamma = 0.1
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.37825679779053
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 1000, Gamma = 0.5
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 37.55295443534851
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 1000, Gamma = 1
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 36.170804500579834
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 1000, Gamma = 10
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.357059478759766
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Polynomial Kernel, Degree = 3, C = 1000, Gamma = 20
+Number of support vectors = [425 438 468 519 458 491 457 427 349 447]
+Elapsed time: 34.69681739807129
+Train accuracy = 1.0
+Test accuracy = 0.3836
+
+Sigmoid Kernel, C = 0.1, Gamma = scale
+Number of support vectors = [501 483 487 527 473 548 491 502 482 504]
+Elapsed time: 54.24006962776184
+Train accuracy = 0.0988
+Test accuracy = 0.0928
+
+Sigmoid Kernel, C = 0.1, Gamma = auto
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 54.736407995224
+Train accuracy = 0.2052
+Test accuracy = 0.1937
+
+Sigmoid Kernel, C = 0.1, Gamma = 0.1
+Number of support vectors = [503 483 487 527 473 546 491 502 482 504]
+Elapsed time: 56.429080963134766
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 0.1, Gamma = 0.5
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 54.341718435287476
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 0.1, Gamma = 1
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 54.07775807380676
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 0.1, Gamma = 10
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 51.663212299346924
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 0.1, Gamma = 20
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 52.02987194061279
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 1, Gamma = scale
+Number of support vectors = [503 483 374 527 473 548 491 502 431 504]
+Elapsed time: 40.53876614570618
+Train accuracy = 0.0718
+Test accuracy = 0.0836
+
+Sigmoid Kernel, C = 1, Gamma = auto
+Number of support vectors = [491 482 487 527 473 544 486 502 475 493]
+Elapsed time: 42.904651403427124
+Train accuracy = 0.334
+Test accuracy = 0.3243
+
+Sigmoid Kernel, C = 1, Gamma = 0.1
+Number of support vectors = [503 483 487 527 473 546 491 502 482 504]
+Elapsed time: 51.55046200752258
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 1, Gamma = 0.5
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 52.49925923347473
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 1, Gamma = 1
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 51.45517420768738
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 1, Gamma = 10
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 51.73299813270569
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 1, Gamma = 20
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 50.867247343063354
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 10, Gamma = scale
+Number of support vectors = [503 483 338 286 473 548 491 502 482 504]
+Elapsed time: 28.02739906311035
+Train accuracy = 0.116
+Test accuracy = 0.1112
+
+Sigmoid Kernel, C = 10, Gamma = auto
+Number of support vectors = [443 465 484 525 472 537 474 490 447 456]
+Elapsed time: 33.21091675758362
+Train accuracy = 0.3762
+Test accuracy = 0.3206
+
+Sigmoid Kernel, C = 10, Gamma = 0.1
+Number of support vectors = [503 483 487 527 473 546 491 502 482 504]
+Elapsed time: 51.784579038619995
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 10, Gamma = 0.5
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 51.280375719070435
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 10, Gamma = 1
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 53.0411479473114
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 10, Gamma = 10
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 54.56354737281799
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 10, Gamma = 20
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 57.42357540130615
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 50, Gamma = scale
+Number of support vectors = [503 482 334 283 473 548 491 502 482 504]
+Elapsed time: 30.329538583755493
+Train accuracy = 0.1144
+Test accuracy = 0.1116
+
+Sigmoid Kernel, C = 50, Gamma = auto
+Number of support vectors = [321 396 458 512 466 533 451 468 410 407]
+Elapsed time: 23.49689245223999
+Train accuracy = 0.3392
+Test accuracy = 0.2548
+
+Sigmoid Kernel, C = 50, Gamma = 0.1
+Number of support vectors = [503 483 487 527 473 546 491 502 482 504]
+Elapsed time: 55.78344488143921
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 50, Gamma = 0.5
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 55.352248191833496
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 50, Gamma = 1
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 56.28707265853882
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 50, Gamma = 10
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 55.56812047958374
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 50, Gamma = 20
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 55.742326974868774
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 100, Gamma = scale
+Number of support vectors = [503 482 334 283 473 548 491 502 482 504]
+Elapsed time: 29.251413106918335
+Train accuracy = 0.1142
+Test accuracy = 0.1116
+
+Sigmoid Kernel, C = 100, Gamma = auto
+Number of support vectors = [296 371 441 501 459 524 434 455 400 383]
+Elapsed time: 23.239079475402832
+Train accuracy = 0.3326
+Test accuracy = 0.24
+
+Sigmoid Kernel, C = 100, Gamma = 0.1
+Number of support vectors = [503 483 487 527 473 546 491 502 482 504]
+Elapsed time: 55.46561288833618
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 100, Gamma = 0.5
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 55.66233849525452
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 100, Gamma = 1
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 55.537190437316895
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 100, Gamma = 10
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 55.36040377616882
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 100, Gamma = 20
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 55.243640184402466
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 1000, Gamma = scale
+Number of support vectors = [503 482 333 283 473 548 491 502 482 504]
+Elapsed time: 29.086652994155884
+Train accuracy = 0.114
+Test accuracy = 0.1118
+
+Sigmoid Kernel, C = 1000, Gamma = auto
+Number of support vectors = [279 349 421 487 447 504 406 445 383 359]
+Elapsed time: 21.159035205841064
+Train accuracy = 0.3224
+Test accuracy = 0.2279
+
+Sigmoid Kernel, C = 1000, Gamma = 0.1
+Number of support vectors = [503 483 487 527 473 546 491 502 482 504]
+Elapsed time: 55.71030950546265
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 1000, Gamma = 0.5
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 55.36237931251526
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 1000, Gamma = 1
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 55.10886883735657
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 1000, Gamma = 10
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 55.375975608825684
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+Sigmoid Kernel, C = 1000, Gamma = 20
+Number of support vectors = [503 483 487 527 473 527 491 502 482 504]
+Elapsed time: 55.55202317237854
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+RBF Kernel, C = 0.1, Gamma = scale
+Number of support vectors = [478 483 487 527 473 546 488 502 470 499]
+Elapsed time: 46.829550981521606
+Train accuracy = 0.3944
+Test accuracy = 0.3512
+
+RBF Kernel, C = 0.1, Gamma = auto
+Number of support vectors = [495 483 487 527 473 548 491 502 482 504]
+Elapsed time: 53.161099433898926
+Train accuracy = 0.2306
+Test accuracy = 0.226
+
+RBF Kernel, C = 0.1, Gamma = 0.1
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 57.21645903587341
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+RBF Kernel, C = 0.1, Gamma = 0.5
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 57.121795415878296
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+RBF Kernel, C = 0.1, Gamma = 1
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 57.551076889038086
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+RBF Kernel, C = 0.1, Gamma = 10
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 57.19389867782593
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+RBF Kernel, C = 0.1, Gamma = 20
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 57.28189015388489
+Train accuracy = 0.1096
+Test accuracy = 0.1
+
+RBF Kernel, C = 1, Gamma = scale
+Number of support vectors = [455 472 486 526 466 540 473 485 426 498]
+Elapsed time: 38.21710753440857
+Train accuracy = 0.7148
+Test accuracy = 0.4342
+
+RBF Kernel, C = 1, Gamma = auto
+Number of support vectors = [477 481 487 527 473 539 487 499 466 484]
+Elapsed time: 42.87479496002197
+Train accuracy = 0.3858
+Test accuracy = 0.3551
+
+RBF Kernel, C = 1, Gamma = 0.1
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 57.202125549316406
+Train accuracy = 1.0
+Test accuracy = 0.112
+
+RBF Kernel, C = 1, Gamma = 0.5
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 57.75436043739319
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 1, Gamma = 1
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 57.766648054122925
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 1, Gamma = 10
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 57.57970952987671
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 1, Gamma = 20
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 57.51185345649719
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 10, Gamma = scale
+Number of support vectors = [466 473 486 527 470 543 480 483 433 501]
+Elapsed time: 48.928696155548096
+Train accuracy = 0.997
+Test accuracy = 0.4462
+
+RBF Kernel, C = 10, Gamma = auto
+Number of support vectors = [459 464 483 523 470 533 464 474 425 473]
+Elapsed time: 34.49631857872009
+Train accuracy = 0.5454
+Test accuracy = 0.4024
+
+RBF Kernel, C = 10, Gamma = 0.1
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 57.61925411224365
+Train accuracy = 1.0
+Test accuracy = 0.1211
+
+RBF Kernel, C = 10, Gamma = 0.5
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 57.86037278175354
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 10, Gamma = 1
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 57.76773500442505
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 10, Gamma = 10
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 57.81310200691223
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 10, Gamma = 20
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 58.58936285972595
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 50, Gamma = scale
+Number of support vectors = [470 473 486 527 470 542 482 484 429 501]
+Elapsed time: 48.48292779922485
+Train accuracy = 1.0
+Test accuracy = 0.4414
+
+RBF Kernel, C = 50, Gamma = auto
+Number of support vectors = [439 450 479 523 467 522 460 457 404 475]
+Elapsed time: 32.45949912071228
+Train accuracy = 0.745
+Test accuracy = 0.4081
+
+RBF Kernel, C = 50, Gamma = 0.1
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 57.495627880096436
+Train accuracy = 1.0
+Test accuracy = 0.1211
+
+RBF Kernel, C = 50, Gamma = 0.5
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 53.513978719711304
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 50, Gamma = 1
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 56.289679527282715
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 50, Gamma = 10
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 55.29546356201172
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 50, Gamma = 20
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 53.639742374420166
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 100, Gamma = scale
+Number of support vectors = [470 473 487 527 470 542 482 484 429 501]
+Elapsed time: 47.37176752090454
+Train accuracy = 1.0
+Test accuracy = 0.4414
+
+RBF Kernel, C = 100, Gamma = auto
+Number of support vectors = [438 451 478 520 463 522 463 446 399 473]
+Elapsed time: 30.789175987243652
+Train accuracy = 0.8564
+Test accuracy = 0.3984
+
+RBF Kernel, C = 100, Gamma = 0.1
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 54.07737684249878
+Train accuracy = 1.0
+Test accuracy = 0.1211
+
+RBF Kernel, C = 100, Gamma = 0.5
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 54.64805507659912
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 100, Gamma = 1
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 54.67336368560791
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 100, Gamma = 10
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 53.98392939567566
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 100, Gamma = 20
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 54.00585699081421
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 1000, Gamma = scale
+Number of support vectors = [470 473 487 527 470 542 482 484 429 501]
+Elapsed time: 45.42233157157898
+Train accuracy = 1.0
+Test accuracy = 0.4414
+
+RBF Kernel, C = 1000, Gamma = auto
+Number of support vectors = [433 444 477 515 463 522 465 450 388 467]
+Elapsed time: 35.64446687698364
+Train accuracy = 0.9992
+Test accuracy = 0.3801
+
+RBF Kernel, C = 1000, Gamma = 0.1
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 54.08255457878113
+Train accuracy = 1.0
+Test accuracy = 0.1211
+
+RBF Kernel, C = 1000, Gamma = 0.5
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 55.30885577201843
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 1000, Gamma = 1
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 56.17138433456421
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 1000, Gamma = 10
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 53.26984167098999
+Train accuracy = 1.0
+Test accuracy = 0.1
+
+RBF Kernel, C = 1000, Gamma = 20
+Number of support vectors = [503 483 487 527 473 548 491 502 482 504]
+Elapsed time: 55.747774839401245
+Train accuracy = 1.0
+Test accuracy = 0.1
+
